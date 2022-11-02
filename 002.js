@@ -1,0 +1,11 @@
+let numero1 = 5;
+let numero2 = 7;
+const numero3 = 8;
+console.log(numero1 + numero2);
+numero2 = 34;
+console.log(numero1 + numero2);
+console.log(numero1 + numero3);
+var suma = numero1 + numero2;
+console.log("la suma de " + numero1 + " + " + numero2 + " es igual " + suma);
+var resta = numero1 - numero2;
+console.log("la resta de " + numero1 + " - " + numero2 + " es igual " + resta);
