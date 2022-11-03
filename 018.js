@@ -9,3 +9,11 @@ for (let index = 1; index<=1000; index++) {
     }
     
 }
+var i=1;
+while(i<=100) {
+    if(i%2!=0){
+        console.log("while "+ i)
+    }
+    i++;
+    
+}
