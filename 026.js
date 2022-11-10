@@ -8,6 +8,7 @@ for (var i = 0; i < compra.length; i++) {
 console.log("En la lista se repite "+galletas+" veces galletas")
 console.log(22 == 2 + "2");
 console.log(22 === 2 + "2");
+
 console.log();
 
 function chocolate(compra){
